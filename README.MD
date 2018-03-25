@@ -8,13 +8,12 @@ It is required JAVA 8 to run this application.
 
 #### Creating the jar
 
-```mvn package and it will generate de jar
-```
+Run 'mvn package' and it will generate de jar
 
 #### Running tests
 
-```mvn test and it will run all tests this application contains
-```
+Type in your console 'mvn test' and it will run all tests this application contains
+
 
 #### Testing the Service
 
